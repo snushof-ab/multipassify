@@ -12,10 +12,14 @@
         "node"
     ],
     "authors": [
-        "Cory Smith, @Smixx",
-        "Filiph Sandström, @filfat"
+        "Filiph Sandström, @filfat",
+        "Cory Smith, @Smixx"
     ],
     "contributors": [
+        {
+            "name": "Filiph Sandström",
+            "email": "filiph@snushof.com"
+        },
         {
             "name": "BeauCoo",
             "email": "info@beaucoo.com",
